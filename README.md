@@ -117,7 +117,7 @@ Scalable React / Next.js Applications
 **M.Sc. in Health Information Technology**
 Tehran University of Medical Sciences · 2023 – 2025
 
-GPA: **19.27 / 20**
+GPA: **19.41 / 20**
 
 ---
 
